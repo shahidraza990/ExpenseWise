@@ -18,18 +18,23 @@ It enables users to:
 
 
 
-##Features
--**Secure User Authentication**
-     -Robust login system powered by JWT to protect user data.
-     
-##Expense Tracking
-  -Add, edit, and delete expense entries with ease.
-##Interactive Analytics
-    -Gain insights into spending patterns through visual charts.
-##Customizable Categories
-    -Organize expenses with user-defined categories.
-##Responsive Design
-   -Enjoy a seamless experience on mobile, tablet, and desktop devices.
+## Features
+
+- **Secure User Authentication**  
+  Robust login system powered by JWT to protect user data.
+
+- **Expense Tracking**  
+  Add, edit, and delete expense entries with ease.
+
+- **Interactive Analytics**  
+  Gain insights into spending patterns through visual charts.
+
+- **Customizable Categories**  
+  Organize expenses with user-defined categories.
+
+- **Responsive Design**  
+  Enjoy a seamless experience on mobile, tablet, and desktop devices.
+
 <p align="center"> <img src="images/expense-category-chart.png" alt="Expense Chart" width="600"/> </p>
 
 
