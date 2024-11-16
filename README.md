@@ -1,5 +1,6 @@
-##ExpanseWise
-#A Comprehensive Expense Management System
+## ExpenseWise  
+&nbsp;&nbsp;&nbsp;&nbsp;A Comprehensive Expense Management System
+
 
 <p align="center"> <img src="images/expensewise-banner.png" alt="ExpenseWise Logo" width="800"/> </p>
 
