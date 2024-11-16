@@ -4,8 +4,13 @@
 
 <p align="center"> <img src="images/expensewise-banner.png" alt="ExpenseWise Logo" width="800"/> </p>
 
-#Overview
-ExpenseWise is a modern web application designed to simplify financial management. It enables users to track, analyze, and organize their expenses efficiently with features like data visualization, category management, and secure authentication.
+# Overview  
+**ExpenseWise** is a modern web application designed to simplify financial management.  
+
+It enables users to:  
+- Track, analyze, and organize their expenses efficiently  
+- Utilize features like data visualization, category management, and secure authentication
+
 
 <p align="center"> <img src="images/dashboard-screenshot.png" alt="ExpenseWise Dashboard" width="800"/> </p>
 
